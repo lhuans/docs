@@ -6,7 +6,6 @@ export default defineConfig({
   title: "lhuans",
   description: "A VitePress Site",
   srcDir: 'src',
-  outDir: 'dist',
   base: '/docs/',
   ignoreDeadLinks: true,
   markdown: {
