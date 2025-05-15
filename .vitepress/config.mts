@@ -58,6 +58,9 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/opentiny/tiny-agent' }
-    ]
-  }
+    ],
+    search: {
+      provider: 'local',
+    },
+  },
 })
