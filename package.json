@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gitalk": "^1.8.0",
     "vitepress": "^1.6.3",
     "vitepress-demo-plugin": "^1.4.1"
   }

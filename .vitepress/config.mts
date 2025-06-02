@@ -57,7 +57,7 @@ export default defineConfig({
       ],
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/opentiny/tiny-agent' }
+      { icon: 'github', link: 'https://github.com/lhuans/docs' }
     ],
     search: {
       provider: 'local',
