@@ -6,9 +6,6 @@ hero:
   name: "lhuans"
   text: "一个人的世界"
   tagline: enjoy yourself
-  # image:
-  #   src: /logo.svg
-  #   alt: lhuans
   actions:
     - theme: brand
       text: 指引
