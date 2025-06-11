@@ -1,0 +1,14 @@
+<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <text 
+    x="50%" 
+    y="50%" 
+    font-family="Arial, sans-serif" 
+    font-size="36px" 
+    font-weight="normal" 
+    fill="#526ecc" 
+    text-anchor="middle" 
+    dominant-baseline="middle"
+  >
+    OpenTiny TinyAgent
+  </text>
+</svg>
